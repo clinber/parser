@@ -1,0 +1,6 @@
+E:\dream_tool\Parser\bin\Debug\Parser.pdb
+E:\dream_tool\Parser\bin\Debug\Model.pdb
+E:\dream_tool\Parser\bin\Debug\Utilities.pdb
+E:\dream_tool\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+E:\dream_tool\Parser\obj\Debug\Parser.dll
+E:\dream_tool\Parser\obj\Debug\Parser.pdb
